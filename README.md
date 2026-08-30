@@ -88,3 +88,144 @@ Process Data using Python & Pandas
 Generate Visualizations using Plotly
  ↓
 Display Interactive Dashboard using Streamlit
+---
+
+## 🧪 Testing and Results
+
+The project was tested using different stocks and time periods to verify the functionality of the dashboard.
+
+### Tests Performed
+
+- Stock selection testing
+- Time-period selection testing
+- Current market data verification
+- Historical price visualization testing
+- Trading volume verification
+- Recent market data verification
+- Company information verification
+- Dashboard interaction testing
+
+### Result
+
+The dashboard successfully retrieves and displays stock market information through an interactive web interface.
+
+---
+
+## 📁 Repository Contents
+
+This repository contains the documents and resources associated with the internship.
+
+- `PALAK LAXMI (0922) 2CSE33 COMPLETION CERTIFICATE .pdf`
+- `PALAK LAXMI (0922) 2CSE33 INTERNSHIP REPORT.pdf`
+- `PALAK LAXMI (0922) 2CSE33 PPT.pdf`
+- `README.md`
+- `app.py`
+- `requirements.txt`
+- `PORJECT_INFO.txt`
+
+---
+
+## 📑 Report Structure
+
+The detailed internship report covers the following sections:
+
+- Internship Overview
+- Organization Overview
+- Internship Objectives
+- Technologies and Tools
+- Project Introduction
+- Problem Statement
+- Project Objectives
+- Project Methodology
+- System Workflow
+- Project Implementation
+- Project Features
+- Testing and Results
+- Screenshots
+- Challenges and Solutions
+- Learning Outcomes
+- Conclusion
+- Future Scope
+- References
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this internship and project development, I gained practical knowledge and experience in:
+
+- Python programming
+- Data processing using Pandas
+- Data visualization using Plotly
+- Streamlit application development
+- Stock market data handling
+- Interactive dashboard development
+- Testing and debugging
+- GitHub repository management
+- Technical documentation
+- Project presentation
+
+---
+
+## 🚀 Future Scope
+
+The project can be further enhanced with the following features:
+
+- Stock watchlists
+- Price alerts
+- Additional financial indicators
+- Portfolio tracking
+- User authentication
+- Advanced market analytics
+- AI/ML-based market analysis
+
+---
+
+## 🎓 Certification
+
+The official Internship Completion Certificate is included in this repository.
+
+**Certificate File:**
+
+Palak Laxmi Completion Certificate.pdf
+
+---
+
+## 🔗 GitHub Repository
+
+This repository contains the internship documents and project-related resources submitted for academic evaluation.
+
+**Repository Name:**
+
+Palak Internship Presentation.pdf
+Palak Laxmi Final Submission of Report.pdf
+Certificate Palak Laxmi.pdf
+
+## 📚 References
+
+The project was developed using documentation and resources related to the technologies used:
+
+- Python Documentation
+- Streamlit Documentation
+- Pandas Documentation
+- Plotly Documentation
+- yfinance Documentation
+- GitHub Documentation
+
+---
+
+## 🙏 Acknowledgement
+
+I sincerely thank Codec Technologies Pvt. Ltd. for providing me with the opportunity to undertake this internship and gain practical exposure to Python development and application development.
+
+I am also thankful to IILM University, faculty members, mentors, and everyone who supported me throughout the internship and project development.
+
+---
+
+## 👨‍💻 Author
+
+**Palak Laxmi**
+
+B.Tech Computer Science Engineering
+
+IILM University, Greater Noida
